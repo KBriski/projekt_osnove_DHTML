@@ -1,2 +1,2 @@
-# projekt_osnove_DHTML_i_PHP
-Projekt o osnovama DHTML-a (HTML, CSS, JS) I PHP-a
+# projekt_osnove_DHTML
+Projekt o osnovama DHTML: HTML, CSS, JS
