@@ -8,7 +8,6 @@ Jednostavna statička web stranica izrađena u HTML-u, CSS-u i JavaScriptu.
 Namijenjena je prezentaciji putničke agencije i ponudi putovanja — jednodnevnih i višednevnih izleta u Hrvatskoj i inozemstvu.
 
 Sadržaj:
-Stranica i opis:
 - `index.html` - Naslovna stranica s osnovnim informacijama
 - `o-nama.html` - Kratki opis agencije i njezin rad
 - `kako-do-nas.html`- Lokacija, kontakt i radno vrijeme
