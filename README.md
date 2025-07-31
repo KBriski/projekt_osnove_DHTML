@@ -9,13 +9,13 @@ Namijenjena je prezentaciji putničke agencije i ponudi putovanja — jednodnevn
 
 Sadržaj:
 Stranica i opis:
-`index.html` - Naslovna stranica s osnovnim informacijama
-`o-nama.html` - Kratki opis agencije i njezin rad
-`kako-do-nas.html`- Lokacija, kontakt i radno vrijeme
-`jednodnevna.html`- Popis jednodnevnih putovanja
-`visednevna.html`- Popis višednevnih putovanja
-`trazilica.html` - Jednostavna tražilica gradova (JS)
-`.css`  - Prilagođeni CSS za svaku podstranicu
+- `index.html` - Naslovna stranica s osnovnim informacijama
+- `o-nama.html` - Kratki opis agencije i njezin rad
+- `kako-do-nas.html`- Lokacija, kontakt i radno vrijeme
+- `jednodnevna.html`- Popis jednodnevnih putovanja
+- `visednevna.html`- Popis višednevnih putovanja
+- `trazilica.html` - Jednostavna tražilica gradova (JS)
+- `.css`  - Prilagođeni CSS za svaku podstranicu
 
 Tehnologije:
 - HTML5, CSS3, JavaScript (osnovna tražilica)
