@@ -20,6 +20,5 @@ Tehnologije:
 - HTML5, CSS3, JavaScript (osnovna tražilica)
 - Bez korištenja server-side tehnologija (PHP, baze podataka)
 
-Svrha:
-Ovaj projekt napravljen je kao praktičan primjer statičke web stranice za prikaz sadržaja putničke agencije. Može se nadograditi koristeći PHP kako bi bilo dinamičnije i mogao omogućavati registraciju putovanja.
+Svrha: Projekt izrađen tijekom studija u sklopu kolegija  Osnove DHTML. Primjer za korištenje frontend (HTML, CSS, JS). Može se nadograditi koristeći PHP kako bi bilo dinamičnije i mogao omogućavati registraciju putovanja.
 
