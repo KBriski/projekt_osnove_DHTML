@@ -1,2 +1,2 @@
 # projekt_osnove_DHTML
-Projekt o osnovama DHTML: HTML, CSS, JS
+Putnička agencija Putnik, statička web stranica za pregled putovanja.
