@@ -1,5 +1,5 @@
 # projekt_osnove_DHTML
-Putnička agencija "Putnik" - statička web stranica za pregled putovanja.
+Putnička agencija "Putnik" - statička web stranica za pregled putovanja: https://kbriski.github.io/projekt_osnove_DHTML 
  
 Ova web stranica pruža informacije o agenciji, ponudi putovanja i omogućuje pretragu po gradovima.
 
