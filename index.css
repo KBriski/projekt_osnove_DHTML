@@ -32,7 +32,7 @@ p{
 }
 
 .navbar ul{
-    font-size: 30px;
+    font-size: 25px;
     color: darkblue;
     border: 3px dotted;
     padding: 0px;
@@ -122,6 +122,7 @@ img {
         text-align: center;
     }
 }
+
 
 
 
